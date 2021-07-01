@@ -1,6 +1,4 @@
 # PHP Scrapping For (Gold - Silver - Palladium - Platinum) Prices.
-***
-
 
 ## 1 - Introduction about our idea:
 
