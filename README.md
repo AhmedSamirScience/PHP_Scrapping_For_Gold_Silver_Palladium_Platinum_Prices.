@@ -2,7 +2,6 @@
 
 ## 1 - Introduction about our idea:
 
-
 <p  href="url" align="center"  >
   <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic1.png"             height="250" width="400"  />
  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic2.png"              height="250" width="400" /> 
