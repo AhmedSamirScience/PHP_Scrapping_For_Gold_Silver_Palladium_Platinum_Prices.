@@ -23,7 +23,7 @@ It's actually looking for specific keys that you want to get the relevant data f
 ## 5 - What are the benefits of this idea?
 
 
-<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/goldpic.png" height="600" width="900" ></p>
+<p href="url"  align="center" ><img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/goldpic.png" height="560" width="900" ></p>
 
 You can collect this data and create an interface such as a desktop or mobile application, or even a website. Nowadays most people focus on investing in things that involve little risk and at the same time, you will not put much effort to figure out what is the best time to invest in this area to save the value of your savings that you earned. So, the best way to serve these people is to create an interface that serves their needs to keep track of these prices every day and make them comfortable if you also get all the old data as you can to have the ability to meet their needs.
 
