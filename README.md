@@ -13,6 +13,12 @@ If you remember that our topic is talking about gold, silver, platinum, and pall
 
 ***
 ## 3 - Accessibility:
+
+<p  href="url" align="center"  >
+  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/hostgator.png"             height="300" width="400"  />
+ <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/xampp.jpeg"              height="300" width="400" /> 
+</p>
+
 As we tried on our code that works on localhost such as Xampp and then we want to try on real servers like Hostgator.
 
 ***
