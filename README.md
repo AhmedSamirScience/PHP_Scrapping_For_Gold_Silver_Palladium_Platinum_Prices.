@@ -6,14 +6,14 @@
 
 
 <p  href="url" align="center"  >
-  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic1.png"             height="300" width="400"  />
- <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic2.png"              height="300" width="400" /> 
+  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic1.png"             height="400" width="500"  />
+ <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic2.png"              height="400" width="500" /> 
 </p>
 
 
 <p  href="url" align="center"  >
-  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic3.png"             height="300" width="400"  />
- <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic4.png"              height="300" width="400" /> 
+  <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic3.png"             height="400" width="500"  />
+ <img src="https://github.com/AhmedSamirScience/PHP_Scrapping_For_Gold_Silver_Palladium_Platinum_Prices./blob/main/pic4.png"              height="400" width="500" /> 
 </p>
 
 Here we fetched all the data I mean all the live prices and also the old prices related to gold, silver, platinum, or palladium. We bring from the best sites that collect the largest data as well as live data related to this region. They use some techniques that we understand very well and depend on that we collect data based on specific keys.
