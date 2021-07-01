@@ -48,8 +48,6 @@ You can collect this data and create an interface such as a desktop or mobile ap
 I will be more than happy if you decide to contribute and/or fork my repo and make something awesome out of it. I will love seeing some feedback or stars from you guys.
 
 ***
-
-#### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you all of data related to this repository because it is on the market now.
-
+#### ➠ To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you more documents related to this code for a better understanding!
 ***
 
