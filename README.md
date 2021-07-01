@@ -49,7 +49,7 @@ I will be more than happy if you decide to contribute and/or fork my repo and ma
 
 ***
 
-#### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you the documents related to this study for a better understanding!
+#### To get more information about our repository, just send us a message from [here](https://www.linkedin.com/in/ahmedsamir13/) and we will send you all of data related to this repository because it is on the market now.
 
 ***
 
