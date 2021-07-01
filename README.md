@@ -14,6 +14,7 @@
 </p>
 
 Here we fetched all the data I mean all the live prices and also the old prices related to gold, silver, platinum, or palladium. We bring from the best sites that collect the largest data as well as live data related to this region. They use some techniques that we understand very well and depend on that we collect data based on specific keys.
+***
 
 ## 2 - Our Features:
 Here, we have a PHP scrape fetched from 12 months, 9 months, 6 months, 3 months, 24 hours, and live data. 
